@@ -1,5 +1,6 @@
 # ChildSafetyKit
 IOT Project made on TinkerCad
+
 KEY FEATURES OF THE PROJECT
 1. This device will ensure safety of the infants in their crib.
 2. Parents will get a message as soon as the sensor detects smoke, drastic change in temp or humidity.
